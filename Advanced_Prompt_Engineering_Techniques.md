@@ -1,6 +1,6 @@
 # 🧠 Advanced Prompt Engineering Techniques — Hands-On Lab
 
-> **Self-paced lab** | No coding required |
+> **Self-paced lab** | No coding required 
 > 
 > Practice directly in [ChatGPT](https://chat.openai.com) · [Claude](https://claude.ai) · [Gemini](https://gemini.google.com)
 
